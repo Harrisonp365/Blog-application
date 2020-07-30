@@ -1,4 +1,8 @@
-# Markdown BlogPosts
+# Markdown Blog
+
+## Website URL: http://188.166.251.184/ 
+## Link to github: https://github.com/Harrisonp365/Blog-application
+## Please read the Setup.md document submitted within the docs files before cloning the repo
 
 ## Purpose:
 
