@@ -1,5 +1,8 @@
 # Markdown BlogPosts
 
+Deployed site URL: http://188.166.224.122/
+Github Link: https://github.com/Harrisonp365/Blog-application
+
 ## Purpose:
 
 Create an application where the user can write in markdown format. Give the users the ability to create, read, update and delete posts. The markdown post will be converted and displayed in HTML and then displayed to the user. The posts can either be public or private, where public posts will be displayed to anyone, and could be sorted with basic functionality. Private posts will only be displayed to the creator of the post and no other users will be able to access the post. The site will serve as a quick and easy to use interactive blog-post platform for developers or anyone who prefers to write in markdown format and convert those files into common documentation types such as pdf, .doc and .docx. It can also be used as a teaching aid to help people develop skills to be able to use the markdown format, with a simple cheatsheet implemented into the help section of the application.
